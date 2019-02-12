@@ -2,7 +2,7 @@
 
 * 介绍
 
-  * [样式配置](./new/themes.md)
+  * [样式配置](configuration.md)
   * [接口配置](./new/api.md)
   * [公用函数](./new/open-js.md)
   * [第三方组件](./new/quote-component.md)
