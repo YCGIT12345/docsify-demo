@@ -1,16 +1,16 @@
-* [安装](./new/install.md)
+* [安装](cover.md)
 
 * 介绍
 
-  * [框架由来](./new/origin.md)
-  * [样式配置](./new/themes.md)
-  * [接口配置](./new/api.md)
-  * [公用函数](./new/open-js.md)
+  * [框架由来](custom-navbar.md)
+  * [样式配置](configuration.md)
+  * [接口配置](deploy.md)
+  * [公用函数](markdown.md)
   * [第三方组件](./new/quote-component.md)
 
 * 组件
 
-  * [组件引入方式](./new/import-component.md)
+  * [组件引入方式](more-pages.md)
   * [文档助手](helpers.md)
   * [兼容 Vue](vue.md)
   * [CDN](cdn.md)
