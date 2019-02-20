@@ -2,11 +2,9 @@
 
 # Indora
 
-> 集众长之长的中后台框架.
+> 个人简历.
 
-* 以vue为基础框架
-* iView为上层参考
-* 众神的小师弟
+* web前端开发
 
 [GitHub](***)
 [Get Started](quickstart.md)
