@@ -2,8 +2,8 @@
 
 # 杨超
 
-> 个人简历.
+> 不摇香已乱，无风花自飞。
 
-* web前端开发
+<!-- * web前端开发 -->
 
 [Get Started](quickstart.md)

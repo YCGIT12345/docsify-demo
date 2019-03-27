@@ -1,1 +1,11 @@
-123
+本记事本仅作为使用docsify的备忘录使用：
+1.安装npm i docsify-cli -g
+2.初始化docsify init docs
+3.启动本地服务docsify serve docs
+
+
+借鉴地址：https://segmentfault.com/a/1190000007656679?utm_source=tag-newest
+
+
+本人线上存放docsify地址：https://ycgit12345.github.io/docsify-demo/
+
